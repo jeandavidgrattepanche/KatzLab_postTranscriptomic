@@ -82,10 +82,10 @@ def loop_7():
 
 
 def main():
-# 	loop_1()
-# 	loop_2()
-# 	loop_3()
-# 	loop_4()
+	loop_1()
+	loop_2()
+	loop_3()
+	loop_4()
 	loop_5()
 	loop_6()
 	loop_7()
